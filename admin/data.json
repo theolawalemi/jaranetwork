@@ -1,0 +1,602 @@
+{
+    "transactionday": [
+        {
+            "data": 200,
+            "label": "Jan"
+        },
+        {
+            "data": 400,
+            "label": "Feb"
+        },
+        {
+            "data": 600,
+            "label": "Mar"
+        },
+        {
+            "data": 800,
+            "label": "Apr"
+        },
+        {
+            "data": 1200,
+            "label": "May"
+        },
+        {
+            "data": 1800,
+            "label": "Jun"
+        },
+        {
+            "data": 1000,
+            "label": "Jul"
+        },
+        {
+            "data": 600,
+            "label": "Aug"
+        },
+        {
+            "data": 400,
+            "label": "Sep"
+        },
+        {
+            "data": 800,
+            "label": "Oct"
+        },
+        {
+            "data": 600,
+            "label": "Nov"
+        },
+        {
+            "data": 400,
+            "label": "Dec"
+        }
+    ],
+    "transactionweek": [
+        {
+            "data": 400,
+            "label": "Jan"
+        },
+        {
+            "data": 600,
+            "label": "Feb"
+        },
+        {
+            "data": 800,
+            "label": "Mar"
+        },
+        {
+            "data": 400,
+            "label": "Apr"
+        },
+        {
+            "data": 600,
+            "label": "May"
+        },
+        {
+            "data": 1000,
+            "label": "Jun"
+        },
+        {
+            "data": 1800,
+            "label": "Jul"
+        },
+        {
+            "data": 1400,
+            "label": "Aug"
+        },
+        {
+            "data": 800,
+            "label": "Sep"
+        },
+        {
+            "data": 600,
+            "label": "Oct"
+        },
+        {
+            "data": 400,
+            "label": "Nov"
+        },
+        {
+            "data": 200,
+            "label": "Dec"
+        }
+    ],
+    "transactionmonth": [
+        {
+            "data": 800,
+            "label": "Jan"
+        },
+        {
+            "data": 1200,
+            "label": "Feb"
+        },
+        {
+            "data": 1800,
+            "label": "Mar"
+        },
+        {
+            "data": 800,
+            "label": "Apr"
+        },
+        {
+            "data": 1000,
+            "label": "May"
+        },
+        {
+            "data": 600,
+            "label": "Jun"
+        },
+        {
+            "data": 800,
+            "label": "Jul"
+        },
+        {
+            "data": 400,
+            "label": "Aug"
+        },
+        {
+            "data": 600,
+            "label": "Sep"
+        },
+        {
+            "data": 400,
+            "label": "Oct"
+        },
+        {
+            "data": 600,
+            "label": "Nov"
+        },
+        {
+            "data": 200,
+            "label": "Dec"
+        }
+    ],
+    "transactionyear": [
+        {
+            "data": 200,
+            "label": "Jan"
+        },
+        {
+            "data": 600,
+            "label": "Feb"
+        },
+        {
+            "data": 400,
+            "label": "Mar"
+        },
+        {
+            "data": 600,
+            "label": "Apr"
+        },
+        {
+            "data": 400,
+            "label": "May"
+        },
+        {
+            "data": 800,
+            "label": "Jun"
+        },
+        {
+            "data": 600,
+            "label": "Jul"
+        },
+        {
+            "data": 1200,
+            "label": "Aug"
+        },
+        {
+            "data": 800,
+            "label": "Sep"
+        },
+        {
+            "data": 1800,
+            "label": "Oct"
+        },
+        {
+            "data": 1200,
+            "label": "Nov"
+        },
+        {
+            "data": 600,
+            "label": "Dec"
+        }
+    ],
+    "liquidityday": [
+        {
+            "data": 200,
+            "label": "Jan"
+        },
+        {
+            "data": 400,
+            "label": "Feb"
+        },
+        {
+            "data": 600,
+            "label": "Mar"
+        },
+        {
+            "data": 800,
+            "label": "Apr"
+        },
+        {
+            "data": 1200,
+            "label": "May"
+        },
+        {
+            "data": 1800,
+            "label": "Jun"
+        },
+        {
+            "data": 1000,
+            "label": "Jul"
+        },
+        {
+            "data": 600,
+            "label": "Aug"
+        },
+        {
+            "data": 400,
+            "label": "Sep"
+        },
+        {
+            "data": 800,
+            "label": "Oct"
+        },
+        {
+            "data": 600,
+            "label": "Nov"
+        },
+        {
+            "data": 400,
+            "label": "Dec"
+        }
+    ],
+    "liquidityweek": [
+        {
+            "data": 400,
+            "label": "Jan"
+        },
+        {
+            "data": 600,
+            "label": "Feb"
+        },
+        {
+            "data": 800,
+            "label": "Mar"
+        },
+        {
+            "data": 400,
+            "label": "Apr"
+        },
+        {
+            "data": 600,
+            "label": "May"
+        },
+        {
+            "data": 1000,
+            "label": "Jun"
+        },
+        {
+            "data": 1800,
+            "label": "Jul"
+        },
+        {
+            "data": 1400,
+            "label": "Aug"
+        },
+        {
+            "data": 800,
+            "label": "Sep"
+        },
+        {
+            "data": 600,
+            "label": "Oct"
+        },
+        {
+            "data": 400,
+            "label": "Nov"
+        },
+        {
+            "data": 200,
+            "label": "Dec"
+        }
+    ],
+    "liquiditymonth": [
+        {
+            "data": 800,
+            "label": "Jan"
+        },
+        {
+            "data": 1200,
+            "label": "Feb"
+        },
+        {
+            "data": 1800,
+            "label": "Mar"
+        },
+        {
+            "data": 800,
+            "label": "Apr"
+        },
+        {
+            "data": 1000,
+            "label": "May"
+        },
+        {
+            "data": 600,
+            "label": "Jun"
+        },
+        {
+            "data": 800,
+            "label": "Jul"
+        },
+        {
+            "data": 400,
+            "label": "Aug"
+        },
+        {
+            "data": 600,
+            "label": "Sep"
+        },
+        {
+            "data": 400,
+            "label": "Oct"
+        },
+        {
+            "data": 600,
+            "label": "Nov"
+        },
+        {
+            "data": 200,
+            "label": "Dec"
+        }
+    ],
+    "liquidityyear": [
+        {
+            "data": 200,
+            "label": "Jan"
+        },
+        {
+            "data": 600,
+            "label": "Feb"
+        },
+        {
+            "data": 400,
+            "label": "Mar"
+        },
+        {
+            "data": 600,
+            "label": "Apr"
+        },
+        {
+            "data": 400,
+            "label": "May"
+        },
+        {
+            "data": 800,
+            "label": "Jun"
+        },
+        {
+            "data": 600,
+            "label": "Jul"
+        },
+        {
+            "data": 1200,
+            "label": "Aug"
+        },
+        {
+            "data": 800,
+            "label": "Sep"
+        },
+        {
+            "data": 1800,
+            "label": "Oct"
+        },
+        {
+            "data": 1200,
+            "label": "Nov"
+        },
+        {
+            "data": 600,
+            "label": "Dec"
+        }
+    ],
+    "growthday": [
+        {
+            "data": 200,
+            "label": "Jan"
+        },
+        {
+            "data": 400,
+            "label": "Feb"
+        },
+        {
+            "data": 600,
+            "label": "Mar"
+        },
+        {
+            "data": 800,
+            "label": "Apr"
+        },
+        {
+            "data": 1200,
+            "label": "May"
+        },
+        {
+            "data": 1800,
+            "label": "Jun"
+        },
+        {
+            "data": 1000,
+            "label": "Jul"
+        },
+        {
+            "data": 600,
+            "label": "Aug"
+        },
+        {
+            "data": 400,
+            "label": "Sep"
+        },
+        {
+            "data": 800,
+            "label": "Oct"
+        },
+        {
+            "data": 600,
+            "label": "Nov"
+        },
+        {
+            "data": 400,
+            "label": "Dec"
+        }
+    ],
+    "growthweek": [
+        {
+            "data": 400,
+            "label": "Jan"
+        },
+        {
+            "data": 600,
+            "label": "Feb"
+        },
+        {
+            "data": 800,
+            "label": "Mar"
+        },
+        {
+            "data": 400,
+            "label": "Apr"
+        },
+        {
+            "data": 600,
+            "label": "May"
+        },
+        {
+            "data": 1000,
+            "label": "Jun"
+        },
+        {
+            "data": 1800,
+            "label": "Jul"
+        },
+        {
+            "data": 1400,
+            "label": "Aug"
+        },
+        {
+            "data": 800,
+            "label": "Sep"
+        },
+        {
+            "data": 600,
+            "label": "Oct"
+        },
+        {
+            "data": 400,
+            "label": "Nov"
+        },
+        {
+            "data": 200,
+            "label": "Dec"
+        }
+    ],
+    "growthmonth": [
+        {
+            "data": 800,
+            "label": "Jan"
+        },
+        {
+            "data": 1200,
+            "label": "Feb"
+        },
+        {
+            "data": 1800,
+            "label": "Mar"
+        },
+        {
+            "data": 800,
+            "label": "Apr"
+        },
+        {
+            "data": 1000,
+            "label": "May"
+        },
+        {
+            "data": 600,
+            "label": "Jun"
+        },
+        {
+            "data": 800,
+            "label": "Jul"
+        },
+        {
+            "data": 400,
+            "label": "Aug"
+        },
+        {
+            "data": 600,
+            "label": "Sep"
+        },
+        {
+            "data": 400,
+            "label": "Oct"
+        },
+        {
+            "data": 600,
+            "label": "Nov"
+        },
+        {
+            "data": 200,
+            "label": "Dec"
+        }
+    ],
+    "growthyear": [
+        {
+            "data": 200,
+            "label": "Jan"
+        },
+        {
+            "data": 600,
+            "label": "Feb"
+        },
+        {
+            "data": 400,
+            "label": "Mar"
+        },
+        {
+            "data": 600,
+            "label": "Apr"
+        },
+        {
+            "data": 400,
+            "label": "May"
+        },
+        {
+            "data": 800,
+            "label": "Jun"
+        },
+        {
+            "data": 600,
+            "label": "Jul"
+        },
+        {
+            "data": 1200,
+            "label": "Aug"
+        },
+        {
+            "data": 800,
+            "label": "Sep"
+        },
+        {
+            "data": 1800,
+            "label": "Oct"
+        },
+        {
+            "data": 1200,
+            "label": "Nov"
+        },
+        {
+            "data": 600,
+            "label": "Dec"
+        }
+    ]
+}

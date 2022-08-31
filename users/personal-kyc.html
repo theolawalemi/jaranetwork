@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Primary Meta Tags -->
+    <title> JaraNetwork — A banking platform as innovative as the market we serve. </title>
+    <meta name="title" content="JaraNetwork — A banking platform as innovative as the market we serve." />
+    <meta name="description" content="A banking platform as innovative as the market we serve." />
+    <meta name="keywords" content="jaranetwork, banking, innovative, finance, market, serve, currency, cryptocurrency, convenient" />
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://jaranetwork.com/" />
+    <meta property="og:title" content="JaraNetwork — A banking platform as innovative as the market we serve." />
+    <meta property="og:description" content="A banking platform as innovative as the market we serve." />
+    <meta property="og:image" content="https://jaranetwork.com/assets/images/graph.png" />
+    <!-- Twitter Meta Tags -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:site" content="@JaraNetwork" />
+    <meta property="twitter:url" content="https://jaranetwork.com/" />
+    <meta property="twitter:title" content="JaraNetwork — A banking platform as innovative as the market we serve." />
+    <meta property="twitter:description" content="A banking platform as innovative as the market we serve." />
+    <meta property="twitter:image" content="https://jaranetwork.com/assets/images/graph.png" />
+    <!-- Schema.org Meta Tags -->
+    <meta itemprop="name" content="JaraNetwork — A banking platform as innovative as the market we serve." />
+    <meta itemprop="description" content="A banking platform as innovative as the market we serve." />
+    <meta itemprop="image" content="https://jaranetwork.com/assets/images/graph.png" />
+    <!-- App Icons -->
+    <link rel="shortcut icon" href="assets/images/brands/favicon.png" type="image/png" />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/libs/pace/css/minimal.min.css" />
+    <link rel="stylesheet" href="assets/libs/dropify/css/dropify.min.css" />
+    <link rel="stylesheet" href="assets/fonts/boxicons/css/boxicons.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" id="bootstrap-style" />
+    <link rel="stylesheet" href="assets/css/app.min.css" id="app-style" />
+    <link rel="stylesheet" href="assets/css/theme.min.css" />
+</head>
+<body>
+    <!-- START Layout Wrapper -->
+    <section class="position-relative d-flex align-items-center bg-info min-vh-100">
+        <!-- START Bubble Effect -->
+        <ul class="bg-bubbles">
+            <li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li>
+        </ul>
+        <!-- END Bubble Effect -->
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-xl-6 col-md-8 my-5">
+                    <div class="auth-content">
+                        <!-- Wizard Content -->
+                        <form id="progress-form" action="business-kyc.html" class="needs-validation" novalidate>
+                            <div class="progress-content pt-4">
+                                <div class="progress-tab" id="personal-information">
+                                    <div class="d-flex justify-content-between mb-3">
+                                        <h4 class="fw-semibold text-white">Personal Information</h4>
+                                        <h4 class="fw-semibold text-white">1/3</h4>
+                                    </div>
+                                    <div class="progress animated-progess mb-5">
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 33%"></div>
+                                    </div>
+                                    <div class="card rounded-15 py-4 px-2">
+                                        <div class="card-body">
+                                            <div class="mb-3">
+                                                <label for="validateNationality" class="form-label fw-normal font-size-14">Nationality</label>
+                                                <select class="form-select form-control" id="validateNationality" required>
+                                                    <option value="CM">Cameroon</option>
+                                                    <option value="CI">Côte d'Ivoire</option>
+                                                    <option value="GH">Ghana</option>
+                                                    <option value="KE">Kenya</option>
+                                                    <option value="MW">Malawi</option>
+                                                    <option value="MU">Mauritius</option>
+                                                    <option value="NG" selected>Nigeria</option>
+                                                    <option value="RW">Rwanda</option>
+                                                    <option value="ZA">South Africa</option>
+                                                    <option value="TZ">Tanzania</option>
+                                                    <option value="UG">Uganda</option>
+                                                    <option value="UK">United Kingdom</option>
+                                                    <option value="US">United States</option>
+                                                    <option value="ZM">Zambia</option>
+                                                </select>
+                                            </div>
+                                            <div class="mb-3">
+                                                <label for="validateFirstName" class="form-label fw-normal font-size-14">Legal First Name</label>
+                                                <input type="text" name="validateFirstName" class="form-control" placeholder="Your first legal name" required>
+                                            </div>
+                                            <div class="mb-3">
+                                                <label for="validateLastName" class="form-label fw-normal font-size-14">Legal Last Name</label>
+                                                <input type="text" name="validateLastName" class="form-control" placeholder="Your last legal name" required>
+                                            </div>
+                                            <div class="mb-3">
+                                                <label for="validateGender" class="form-label fw-normal font-size-14">Gender</label>
+                                                <select name="validateGender" class="form-select form-control" required>
+                                                    <option value="Male">Male</option>
+                                                    <option value="Female">Female</option>
+                                                    <option value="Other">Other</option>
+                                                </select>
+                                            </div>
+                                            <div class="mb-3">
+                                                <label for="validateDOB" class="form-label fw-normal font-size-14">Date of Birth</label>
+                                                <input type="date" name="validateDOB" class="form-control" required>
+                                            </div>
+                                            <a href="javascript:void(0);" class="d-flex justify-content-center align-items-center pt-4" onclick="nextTab(1)">
+                                                <span class="font-size-18 fw-medium me-2">Proceed</span>
+                                                <i class="bx bx-right-arrow-circle font-size-24"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="progress-tab" id="government-issued">
+                                    <div class="d-flex justify-content-between mb-3">
+                                        <h4 class="fw-semibold text-white">Government Issued</h4>
+                                        <h4 class="fw-semibold text-white">2/3</h4>
+                                    </div>
+                                    <div class="progress animated-progess mb-5">
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 66%"></div>
+                                    </div>
+                                    <div class="card rounded-15 py-4 px-2">
+                                        <div class="card-body">
+                                            <div class="mb-3">
+                                                <label for="validateDocument" class="form-label fw-normal font-size-14">Choose identification document</label>
+                                                <select name="validateDocument" class="form-select form-control" required>
+                                                    <option value="National ID Card"> National ID Card</option>
+                                                    <option value="Driver's License">Driver's License</option>
+                                                    <option value="Passport">Passport</option>
+                                                </select>
+                                            </div>
+                                            <div class="mb-3">
+                                                <label for="validateIDNumber" class="form-label fw-normal font-size-14">ID Number</label>
+                                                <input type="text" name="validateIDNumber" class="form-control" placeholder="B0263Y728Q" required>
+                                            </div>
+                                            <!-- Using Dropify drag and drop file uploader -->
+                                            <div class="mb-3">
+                                                <label for="validateIDFront" class="form-label fw-normal font-size-14">Upload the front cover of document</label>
+                                                <input type="file" name="validateIDFront" class="dropify" data-max-file-size="4M" data-show-remove="false" data-allowed-file-extensions="pdf png jpg jpeg" required>
+                                            </div>
+                                            <div class="mb-3">
+                                                <label for="validateIDBack" class="form-label fw-normal font-size-14">Upload the back cover of document</label>
+                                                <input type="file" name="validateIDBack" class="dropify" data-max-file-size="4M" data-show-remove="false" data-allowed-file-extensions="pdf png jpg jpeg" required>
+                                            </div>
+                                            <!-- End Dropify drag and drop file uploader -->
+                                            <div class="d-flex justify-content-between pt-4">
+                                                <a href="javascript:void(0);" class="d-flex align-items-center text-muted" onclick="nextTab(-1)">
+                                                    <i class="bx bx-left-arrow-circle font-size-24"></i>
+                                                    <span class="font-size-18 fw-medium ms-2">Go Back</span>
+                                                </a>
+                                                <a href="javascript:void(0);" class="d-flex align-items-center" onclick="nextTab(1)">
+                                                    <span class="font-size-18 fw-medium me-2">Proceed</span>
+                                                    <i class="bx bx-right-arrow-circle font-size-24"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="progress-tab" id="confirm-basic-identification">
+                                    <div class="d-flex justify-content-between mb-3">
+                                        <h4 class="fw-semibold text-white">Confirm Basic Identification</h4>
+                                        <h4 class="fw-semibold text-white">3/3</h4>
+                                    </div>
+                                    <div class="progress animated-progess mb-5">
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 100%"></div>
+                                    </div>
+                                    <div class="card rounded-15 py-4 px-2">
+                                        <div class="card-body">
+                                            <div class="mb-4">
+                                                <span class="badge badge-soft-primary rounded-pill font-size-16 p-3">Your Jarapay ID: 8278759</span>
+                                            </div>
+                                            <!-- Using Dropify drag and drop file uploader -->
+                                            <div class="mb-4">
+                                                <label for="validateSelfHolding" class="form-label fw-normal font-size-14">
+                                                    Upload identification document self holding
+                                                </label>
+                                                <input type="file" name="validateSelfHolding" class="dropify" data-max-file-size="4M" data-show-remove="false" data-allowed-file-extensions="pdf png jpg jpeg" required>
+                                            </div>
+                                            <!-- End Dropify drag and drop file uploader -->
+                                            <div class="mb-3">
+                                                <ol class="font-size-14 line-height-18 ps-3">
+                                                    <li>Write your Jarapay ID on a white paper and hold with your ID card.</li>
+                                                    <li>Image file format must be jpg or png, file size cannot exceed 4 MB.</li>
+                                                    <li>Face should be clearly visible! Note should be clearly readable! Passport should be clearly readable!</li>
+                                                    <li>Passport cover, photo page and yourself holding the passport and a note with your Jarapay ID on it are required.</li>
+                                                </ol>
+                                            </div>
+                                            <div class="d-flex justify-content-between pt-4">
+                                                <a href="javascript:void(0);" class="d-flex align-items-center text-muted" onclick="nextTab(-1)">
+                                                    <i class="bx bx-left-arrow-circle font-size-24"></i>
+                                                    <span class="font-size-18 fw-medium ms-2">Go Back</span>
+                                                </a>
+                                                <button type="submit" class="text-link d-flex align-items-center" onclick="nextTab(1)">
+                                                    <span class="font-size-18 fw-medium me-2">Submit</span>
+                                                    <i class="bx bx-right-arrow-circle font-size-24"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="dashboard.html" class="d-block text-center text-warning font-size-14">Skip to dashboard.</a>
+                        </form>
+                        <!-- End Wizard Content -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="background-gloomy text-center py-4">
+        <span class="text-white">@JaraNetwork</span>
+    </footer>
+    <!-- END Layout Wrapper -->
+        
+    <!-- JAVASCRIPT -->
+    <script src="assets/libs/jquery/jquery.min.js"></script>
+    <script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/libs/dropify/js/dropify.min.js"></script>
+    <script src="assets/js/pages/dropify.init.js"></script>
+    <script src="assets/js/pages/progress.init.js"></script>
+    <script src="assets/js/pages/validation.init.js"></script>
+    <script src="assets/libs/pace/js/pace.min.js"></script>
+    <script src="assets/js/app.min.js"></script>
+</body>
+</html>
