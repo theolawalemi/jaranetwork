@@ -99,6 +99,8 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -150,6 +152,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -201,6 +204,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -252,6 +256,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -303,6 +308,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -354,6 +360,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -405,6 +412,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -456,6 +464,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -507,6 +516,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -558,6 +568,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -609,6 +620,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
@@ -660,6 +672,7 @@
                         hoverBackgroundColor: 'rgba(0, 83, 186, 1)',
                         borderColor: 'rgba(0, 83, 186, 1)',
                         borderWidth: 1,
+                        borderRadius: 5,
                         spanGaps: false,
                     }]
                 },
