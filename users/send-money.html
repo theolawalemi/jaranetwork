@@ -704,6 +704,25 @@
     </div>
     <!-- END Successful Modal -->
 
+    <!-- Failed Modal -->
+    <div class="modal fade" id="orderFailed" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="orderFailedfulLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content has-shadow rounded-15 border-0 py-4 px-3">
+                <div class="modal-body text-center">
+                    <svg class="mb-4" width="112" height="112" viewBox="0 0 112 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="56" cy="56" r="56" fill="#FF6A55"/>
+                        <path d="M73.504 73.5039C72.9027 74.1052 71.9619 74.1598 71.2989 73.6679L71.1089 73.5039L56.5 58.8958L41.8911 73.5039C41.2899 74.1052 40.349 74.1598 39.686 73.6679L39.4961 73.5039C38.8948 72.9027 38.8402 71.9618 39.3321 71.2988L39.4961 71.1089L55.3025 55.3025C55.9038 54.7012 56.8446 54.6466 57.5076 55.1385L57.6975 55.3025L73.504 71.1089C74.1653 71.7703 74.1653 72.8426 73.504 73.5039Z" fill="white" stroke="white"/>
+                        <path d="M39.496 39.496C40.0973 38.8948 41.0381 38.8401 41.7011 39.3321L41.8911 39.496L56.5 54.1042L71.1089 39.496C71.7101 38.8948 72.651 38.8401 73.314 39.3321L73.5039 39.496C74.1052 40.0973 74.1598 41.0381 73.6679 41.7011L73.5039 41.8911L57.6975 57.6975C57.0962 58.2987 56.1554 58.3534 55.4924 57.8615L55.3025 57.6975L39.496 41.8911C38.8347 41.2297 38.8347 40.1574 39.496 39.496Z" fill="white" stroke="white"/>
+                    </svg>                                                        
+                    <h3 class="fw-normal mb-4">Failed</h3>
+                    <p class="font-size-14 text-muted mb-4">We can't process your request to send 1,000 USDC to Abdullahi Abodunrin, due to insufficient fund.</p>
+                    <a href="send-money.html" class="btn btn-primary fw-semibold rounded-10 width-80">Continue</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END Failed Modal -->
+
     <!-- JAVASCRIPT -->
     <script src="assets/libs/jquery/jquery.min.js"></script>
     <script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>

@@ -2,7 +2,7 @@
     "use strict";
     // A modern approach to create chart with JSON data
     const request = new XMLHttpRequest();
-    const url = 'https://balocreation.github.io/jaranetwork/admin/data.json';
+    const url = 'https://jaranetwork.vercel.app/admin/data.json';
     request.open('GET', url, true);
     request.send();
     request.onreadystatechange = function () {
